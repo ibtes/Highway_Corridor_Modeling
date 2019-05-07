@@ -14,4 +14,4 @@ This project consists of three main parts:
   - Geometric and operational improvements
 
 
-![alt text](poster.pdf)
+![alt text](poster.png)
